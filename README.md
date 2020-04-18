@@ -1,4 +1,4 @@
-# Experiencing HTML Lab
+<HTML># Experiencing HTML Lab
 
 ## Problem Statement
 
@@ -36,11 +36,11 @@ Now write in a few of these in your file. Here's one from us (songs in the
 English post-punk genre).
 
 ```text
-"Love Will Tear Us Apart"
-"Bela Lugosi's Dead"
-"A Forest"
-"Nine While Nine"
-"Girlfriend In a Coma"
+<li>"Love Will Tear Us Apart"</li>
+<li>"Bela Lugosi's Dead"</li>
+<li>"A Forest"</li>
+<li>"Nine While Nine"</li>
+<li>"Girlfriend In a Coma"</li>
 ```
 
 The material we typed into the file is called the _content_.  It's the thing
@@ -284,3 +284,4 @@ ways to describe our content.  We might be starting with lists today, but soon
 we'll be on this in exciting ways!
 
 Welcome to the community of web page creators!
+</HTML>
